@@ -1,0 +1,43 @@
+html{
+    margin: 0;
+
+}
+.cabecalho{
+
+    align-items: center;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+
+
+}
+.cabecalho__logo{
+
+    height: 50px;
+    width: 50px;
+}
+
+.cabecalho__menu{
+   
+    
+ 
+    margin: 0;
+   
+}
+.cabecalho__menu__lista{
+    display: flex;
+
+}
+.cabecalho__menu__lista__item{
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.cabecalho__menu__lista__item__a{
+    color: black;
+    margin-right: 1.5rem;
+    text-decoration: none ;
+    text-transform:lowercase;
+    
+}
