@@ -1,0 +1,13 @@
+.destaques{
+    background-color:  #BFC8BE;
+    text-align: center;
+}
+
+.destaques__titulo{
+    color: #16510D;
+    text-align: center;
+    font-family: Pacifico, cursive;
+    font-size: 2.8rem;
+    text-shadow: 0 6px 6px rgb(255, 255, 255);
+    margin-top: 10px;
+}
