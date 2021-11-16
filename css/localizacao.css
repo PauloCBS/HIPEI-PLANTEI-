@@ -1,0 +1,50 @@
+.localizacao{
+    background-color: white;
+}
+
+.localizacao__titulo{
+    color: #16510D;
+    text-align: center;
+    font-family: Pacifico, cursive;
+    font-size: 2.8rem;
+    margin-top: 0px;
+    padding: 35px;
+}
+
+.localizacao__conteudo{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+    
+
+}
+
+.localizacao__conteudo__mapa{
+
+    margin-right: 50px;
+
+
+}
+
+.localizacao__conteudo__endereco{
+
+    list-style: none;
+    width: 40%;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 1.5rem;
+    line-height: 33px;
+   
+    color:black;
+    margin: 0;
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.localizacao__conteudo__endereco__item{
+    padding: 15px;
+}

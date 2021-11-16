@@ -1,3 +1,17 @@
 .rodape {
-    background-color: #0B3405;
+    background-color: white;
+    display: flex;
+    justify-content: center;
 }
+
+.rodape__titulo{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.rodape__logo{
+    width: 10%;
+}
+

@@ -1,0 +1,65 @@
+.quemSomos{
+    background-color:  #BFC8BE;
+    text-align: center; 
+}
+.quemSomos__titulo{
+
+    color: #16510D;
+    font-size: 3rem;
+   
+    font-family: Pacifico, cursive;
+    text-shadow: 0 6px 6px rgb(212, 195, 195);
+    margin-bottom: 1rem;
+
+}
+.quemSomos__paragrafo{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 1.8rem;
+    line-height: 33px;
+   align-items: center;
+    color:black;
+    margin: 0;
+    justify-content: center;
+    padding: 10px;
+
+}
+.quemSomos__pessoas{
+    display: flex;
+    padding-top: 3rem;
+    justify-content: space-around;
+
+}
+.quemSomos__pessoa{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.imagem{
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    width: 300px;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+}
+.quemSomos__pessoa__imagem__Abraao{
+    background-image: url('../Imagens/Abraao.png');
+}
+.quemSomos__pessoa__imagem__Paulo{
+    background-image: url('../Imagens/Paulo.png');
+
+}
+.quemSomos__pessoa__nome{
+    color: #16510D;
+    font-size: 1.8rem;
+    font-family: Pacifico, cursive;
+    text-shadow: 0 6px 6px rgb(212, 195, 195);
+}
+.quemSomos__pessoa__funcao{
+    color: #595959;
+    font-size: 1.25rem;
+    padding: 5px;
+}
